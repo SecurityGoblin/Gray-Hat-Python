@@ -9,4 +9,4 @@ Chapter 1 features a short introduction into the ctypes library for Python, as w
 
 Chapter 2 contained no programming excercises and instead went over the various aspects involved in debugging processes such as registers and breakpoints.
 
-- __Chapter 3 - In Progress - __
+- __Chapter 3 - In Progress -__
